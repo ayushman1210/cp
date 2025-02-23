@@ -1,0 +1,1 @@
+{"name":"Local: odd","url":"c:\\Users\\Dell\\Desktop\\daily_cp\\code_forces\\odd.cpp","tests":[{"id":1740013019942,"input":"2\n998244353\n1099511627776\n","output":"NO\nYES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\daily_cp\\code_forces\\odd.cpp","group":"local","local":true}
