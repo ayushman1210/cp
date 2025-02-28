@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-int t;
-cin>>t;
 string s;
-int count=0;
+getline(cin,s);
+string t;
+
 }
