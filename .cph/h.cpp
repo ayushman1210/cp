@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int a;
+int b;
+cin>>a>>b;
+cout<<"floor "<<a<<" / "<<b<<" = "<<floor(double(a)/b)<<endl;
+cout<<"ceil "<<a<<" / "<<b<<" = "<<ceil(double(a)/b)<<endl;
+cout<<"round "<<a<<" / "<<b<<" = "<<round(double(a)/b)<<endl;
+}

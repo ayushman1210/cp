@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Users\\Dell\\Desktop\\grind\\c++\\a.cpp","tests":[{"id":1741798290557,"input":"programmer\n","output":"Hello, programmer"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\grind\\c++\\a.cpp","group":"local","local":true}
