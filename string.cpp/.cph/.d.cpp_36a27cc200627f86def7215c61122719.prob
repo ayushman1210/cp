@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\grind\\c++\\string.cpp\\d.cpp","tests":[{"id":1744208272535,"input":"abcd\nef","output":"4 2\nabcdef\nebcd af\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\grind\\c++\\string.cpp\\d.cpp","group":"local","local":true}

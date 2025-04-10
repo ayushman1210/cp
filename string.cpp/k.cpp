@@ -4,8 +4,25 @@ int main(){
 int t;
 cin>>t;
 string s;
-string t;
-cin>>s;
-cin>>t;
-for(int i=0; int j=0; i<s.size(); j<j.size(); j++){}
+string r;
+while(t--){
+    cin>>s;
+    cin>>r;
+    int t=min(s.size(), r.size());
+    int m=max(s.size(),r.size());
+    for(int i=0; i<t; i++ ){
+        cout<<s[i]<<r[i];
+    }
+    if(s.size()>r.size()){
+        for(int i=t; i<m; i++){
+            cout<<s[i];
+        }
+    }
+    else if(s.size()<r.size()){
+        for(int i=t; i<m; i++){
+            cout<<r[i];
+        }
+    }
+    cout<<endl;
+    }
 }
